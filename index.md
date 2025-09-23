@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: single
 title: "My Project"
-nav_order: 1
-has_toc: true
+toc: true
+toc_sticky: true
 ---
 
 
