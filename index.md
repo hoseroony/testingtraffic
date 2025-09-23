@@ -1,10 +1,10 @@
 
+
 ---
 layout: default
 title: "My Project"
-toc: true
-toc_label: "Contents"
-toc_sticky: true
+nav_order: 1
+has_toc: true
 ---
 
 
