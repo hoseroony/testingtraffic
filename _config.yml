@@ -1,5 +1,6 @@
-theme: minima
 
+emote_theme: just-the-docs/just-the-docs
 plugins:
-  - jekyll-toc
+  - jekyll-remote-theme
+
 
